@@ -1,0 +1,16 @@
+{
+    "common_from_top" : [
+    ],
+    "common_from_end" : [
+    ],
+    "pages" :[
+        {
+            "page_name" :"other-index",
+            "title" : "Home Page",
+            "page_components" : [
+                "./components/banner",
+                "./components/header"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "common_from_top" : [
+        "./components/header"
+    ],
+    "common_from_end" : [
+    ],
+    "pages" :[
+        {
+            "page_name" :"index",
+            "title" : "Home Page",
+            "page_components" : [
+                "./components/banner"
+            ]
+        },
+        {
+            "page_name" :"about-us",
+            "title" : "About Page",
+            "page_components" : []
+        }
+    ]
+}

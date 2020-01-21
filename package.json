@@ -1,0 +1,15 @@
+{
+  "name": "project-builder",
+  "version": "1.0.0",
+  "description": "Static html project builder",
+  "main": "project-builder.js",
+  "scripts": {
+    "build": "node ./project-buidler.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pretty": "^2.0.0"
+  }
+}
